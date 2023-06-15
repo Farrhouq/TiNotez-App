@@ -13,7 +13,7 @@ while offering unique features to enhance your productivity.
 - **Category System:** Effortlessly group your files into predefined folders for easy access. No need to search the whole computer to find that note file. You don't even need to search.
 - **Smart File Organization:** TiNotez automatically organizes your text files, eliminating the need for manual file management. Say goodbye to searching through folders and directories.
 
-#Installation
+# Installation
 1. Click on 'Code' at the top of this repository.
 2. Download ZIP file at the bottom of the dropdown.
 3. Extract files, and run the distribution for your operating system.
