@@ -4,7 +4,7 @@ Can't remember where you saved that text file? TiNotez is a Django application s
 while offering unique features to enhance your productivity.
 
 
-# Original Project Repository: [TiNotez Project Repository](https://github.com/Farrhouq/TiNotez.git)
+## Original Project Repository: [TiNotez Project Repository](https://github.com/Farrhouq/TiNotez.git)
 
 
 ## Key Features
